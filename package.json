@@ -1,0 +1,20 @@
+{
+  "name": "acm-bot",
+  "version": "1.0.0",
+  "description": "Simple bot for ACM UNLV's Discord",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "eslint": "^9.19.0"
+  }
+}
